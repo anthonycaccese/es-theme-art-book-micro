@@ -6,7 +6,7 @@ Discussion is ongoing in this thread: https://retropie.org.uk/forum/topic/11728/
 
 ### Animated Preview
 
-![Animated Preview](https://i.imgur.com/XPr1qlC.gifv)
+![Animated Preview](https://i.imgur.com/XPr1qlC.gif)
 
 ### What it "could" look like on a real device
 
