@@ -4,11 +4,15 @@ Discussion is ongoing in this thread: https://retropie.org.uk/forum/topic/11728/
 
 ## Preview
 
-### Screenshots
+### Animated Preview
+
+![Animated Preview](https://i.imgur.com/XPr1qlC.gifv)
+
+### What it "could" look like on a real device
 
 *System View*
 
-![Detailed View](https://i.imgur.com/cMS8kwj.png)
+![System View](https://i.imgur.com/cMS8kwj.png)
 
 *Detail View*
 
