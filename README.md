@@ -8,19 +8,9 @@ Discussion is ongoing in this thread: https://retropie.org.uk/forum/topic/11728/
 
 ![Animated Preview](https://i.imgur.com/XPr1qlC.gif)
 
-### What it "could" look like on a real device
+### Views Supported
 
-*System View*
-
-![System View](https://i.imgur.com/cMS8kwj.png)
-
-*Detail View*
-
-![Basic View](https://i.imgur.com/U7CfK4D.png)
-
-*Basic View*
-
-![Basic View](https://i.imgur.com/lWU9ctN.png)
+![System View](https://i.imgur.com/S8xJBWk.png)
 
 ## Details
 
