@@ -29,8 +29,12 @@ Discussion is ongoing in this thread: https://retropie.org.uk/forum/topic/11728/
 using selph's scraper: https://github.com/sselph/scraper
 
 ### Arcade
-- Run the following command in an arcade system's folder (i.e. /roms/mame-libretro, /roms/fba): /opt/retropie/supplementary/scraper/scraper -mame=true -mame_src=gdb,adb,ss -mame_img=fly,b,t,s -max_height=540 -max_width=394 -image_dir=media -image_path=media
+- Run either of the following commands in an arcade system's folder (i.e. /roms/mame-libretro, /roms/fba):
+- If you want flyers... /opt/retropie/supplementary/scraper/scraper -mame=true -mame_src=gdb,adb,ss -mame_img=fly,b,t,s -max_height=540 -max_width=394 -image_dir=media -image_path=media
+- If you want screenshots... /opt/retropie/supplementary/scraper/scraper -mame=true -mame_src=gdb,adb,ss -mame_img=s,t,fly,b -max_height=540 -max_width=394 -image_dir=media -image_path=media
 
 ### Console
 
-- Run this command in a system's folder (i.e. /roms/nes): /opt/retropie/supplementary/scraper/scraper -console_src=ss -max_height=540 -max_width=505 image_dir=media -image_path=media -use_nointro_name=false 
+- Run either of the following commands in a system's folder (i.e. /roms/nes): /opt/retropie/supplementary/scraper/scraper -console_src=ss -max_height=540 -max_width=505 image_dir=media -image_path=media -use_nointro_name=false 
+- If you want boxart... /opt/retropie/supplementary/scraper/scraper -console_src=ss -max_height=540 -max_width=505 image_dir=media -image_path=media -use_nointro_name=false 
+- If you want screenshots... /opt/retropie/supplementary/scraper/scraper -console_src=ss -console_img=s,b -max_height=540 -max_width=505 image_dir=media -image_path=media -use_nointro_name=false 
