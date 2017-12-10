@@ -126,7 +126,10 @@ license:        creative commons CC-BY-NC-SA
       </image>
       <video name="md_video">
          <origin>0 0</origin>
-         <pos>1 1</pos>
+         <pos>0 0</pos>
+         <size>1 0</size>
+         <zIndex>100</zIndex>
+         <showSnapshotNoVideo>true</showSnapshotNoVideo>
       </video>
    </view>
 
